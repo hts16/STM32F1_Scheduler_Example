@@ -1,0 +1,9 @@
+../Scheduler/scheduler.c:33:1:SchedulerSysTickIntHandler	1
+../Scheduler/scheduler.c:61:6:SchedulerInit	1
+../Scheduler/scheduler.c:80:10:scheduler_get_tick	1
+../Scheduler/scheduler.c:102:1:SchedulerRun	4
+../Scheduler/scheduler.c:157:1:SchedulerTaskEnable	3
+../Scheduler/scheduler.c:209:1:SchedulerTaskDisable	2
+../Scheduler/scheduler.c:235:1:SchedulerTickCountGet	1
+../Scheduler/scheduler.c:260:1:SchedulerElapsedTicksGet	1
+../Scheduler/scheduler.c:287:1:SchedulerElapsedTicksCalc	1
